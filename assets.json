@@ -2,61 +2,248 @@
   {
     "id": "point01",
     "name": "point01",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point01.png",
     "tags": []
   },
   {
     "id": "point02",
     "name": "point02",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point02.png",
     "tags": []
   },
   {
     "id": "point03",
     "name": "point03",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point03.png",
     "tags": []
   },
   {
     "id": "point04",
     "name": "point04",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point04.png",
     "tags": []
   },
   {
     "id": "point05",
     "name": "point05",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point05.png",
     "tags": []
   },
   {
     "id": "point06",
     "name": "point06",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point06.png",
     "tags": []
   },
   {
     "id": "point07",
     "name": "point07",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point07.png",
     "tags": []
   },
   {
     "id": "point_hand",
     "name": "point_hand",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point_hand.png",
     "tags": []
   },
   {
     "id": "point_wallet",
     "name": "point_wallet",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point_wallet.png",
     "tags": []
   },
   {
     "id": "point_pouch",
     "name": "point_pouch",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point_pouch.png",
     "tags": []
   }
+  {
+  "id": "bag",
+  "name": "bag",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/bag.png",
+  "tags": []
+  },
+  {
+  "id": "bell",
+  "name": "bell",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/bell.png",
+  "tags": []
+  },
+  {
+  "id": "book",
+  "name": "book",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/book.png",
+  "tags": []
+  },
+  {
+  "id": "book_comics",
+  "name": "book_comics",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/book_comics.png",
+  "tags": []
+  },
+  {
+  "id": "check",
+  "name": "check",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/check.png",
+  "tags": []
+  },
+  {
+  "id": "fire",
+  "name": "fire",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/fire.png",
+  "tags": []
+  },
+  {
+  "id": food_chicken",
+  "name": "food_chicken",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/food_chicken.png",
+  "tags": []
+  },
+  {
+  "id": "game",
+  "name": "game",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/game.png",
+  "tags": []
+  },
+  {
+  "id": "gift",
+  "name": "gift",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/gift.png",
+  "tags": []
+  },
+  {
+  "id": "gold_bank",
+  "name": "gold_bank",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/gold_bank.png",
+  "tags": []
+  },
+  {
+  "id": "gold_bar",
+  "name": "gold_bar",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/gold_bar.png",
+  "tags": []
+  },
+  {
+  "id": "heart",
+  "name": "heart",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/heart.png",
+  "tags": []
+  },
+  {
+  "id": "jewel",
+  "name": "jewel",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/jewel.png",
+  "tags": []
+  },
+  {
+  "id": "joystick",
+  "name": "joystick",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/joystick.png",
+  "tags": []
+  },
+  {
+  "id": "lotto",
+  "name": "lotto",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/lotto.png",
+  "tags": []
+  },
+  {
+  "id": "luckybag",
+  "name": "luckybag",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/luckybag.png",
+  "tags": []
+  },
+  {
+  "id": "mission",
+  "name": "mission",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/mission.png",
+  "tags": []
+  },
+  {
+  "id": "naver",
+  "name": "naver",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/naver.png",
+  "tags": []
+  },
+  {
+  "id": "pouch_blue",
+  "name": "pouch_blue",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/pouch_blue.png",
+  "tags": []
+  },
+  {
+  "id": "pouch_red",
+  "name": "pouch_red",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/pouch_red.png",
+  "tags": []
+  },
+  {
+  "id": "sns_insta",
+  "name": "sns_insta",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/sns_insta.png",
+  "tags": []
+  },
+  {
+  "id": "sns_youtube",
+  "name": "sns_youtube",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/sns_youtube.png",
+  "tags": []
+  },
+  {
+  "id": "stamp",
+  "name": "stamp",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/stamp.png",
+  "tags": []
+  },
+  {
+  "id": "thunder",
+  "name": "thunder",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/thunder.png",
+  "tags": []
+  },
+  {
+  "id": "ticket",
+  "name": "ticket",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ticket.png",
+  "tags": []
+  },
+  
+  
 ]
