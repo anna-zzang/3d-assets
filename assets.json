@@ -112,7 +112,7 @@
   "tags": []
   },
   {
-  "id": food_chicken",
+  "id": "food_chicken",
   "name": "food_chicken",
   "category": "object",
   "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/food_chicken.png",
