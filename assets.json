@@ -2,61 +2,61 @@
   {
     "id": "point01",
     "name": "point01",
-    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/point01.png",
+    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point01.png",
     "tags": []
   },
   {
     "id": "point02",
     "name": "point02",
-    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/point02.png",
+    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point02.png",
     "tags": []
   },
   {
     "id": "point03",
     "name": "point03",
-    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/point03.png",
+    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point03.png",
     "tags": []
   },
   {
     "id": "point04",
     "name": "point04",
-    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/point04.png",
+    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point04.png",
     "tags": []
   },
   {
     "id": "point05",
     "name": "point05",
-    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/point05.png",
+    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point05.png",
     "tags": []
   },
   {
     "id": "point06",
     "name": "point06",
-    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/point06.png",
+    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point06.png",
     "tags": []
   },
   {
     "id": "point07",
     "name": "point07",
-    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/point07.png",
+    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point07.png",
     "tags": []
   },
   {
     "id": "point_hand",
     "name": "point_hand",
-    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/point_hand.png",
+    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point_hand.png",
     "tags": []
   },
   {
     "id": "point_wallet",
     "name": "point_wallet",
-    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/point_wallet.png",
+    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point_wallet.png",
     "tags": []
   },
   {
     "id": "point_pouch",
     "name": "point_pouch",
-    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/point_pouch.png",
+    "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/point_pouch.png",
     "tags": []
   }
 ]
