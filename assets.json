@@ -264,5 +264,180 @@
   "category": "object",
   "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/img-obj-lock.png",
   "tags": []
-  }
+  },
+{
+  "id": "honeybucket",
+  "name": "honeybucket",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/img-obj-honeybucket.png",
+  "tags": []
+},
+{
+  "id": "donut",
+  "name": "donut",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/img-obj-donut.png",
+  "tags": []
+},
+{
+  "id": "clock",
+  "name": "clock",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/img-obj-clock.png",
+  "tags": []
+},
+{
+  "id": "challenge",
+  "name": "challenge",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/img-obj-challenge.png",
+  "tags": []
+},
+{
+  "id": "smedal",
+  "name": "smedal",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-smedal.png",
+  "tags": []
+},
+{
+  "id": "shopbag",
+  "name": "shopbag",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-shopbag.png",
+  "tags": []
+},
+{
+  "id": "shoe",
+  "name": "shoe",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-shoe.png",
+  "tags": []
+},
+{
+  "id": "roulette",
+  "name": "roulette",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-roulette.png",
+  "tags": []
+},
+{
+  "id": "notice",
+  "name": "notice",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-notice.png",
+  "tags": []
+},
+{
+  "id": "joystick-1",
+  "name": "joystick-1",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-joystick-1.png",
+  "tags": []
+},
+{
+  "id": "icecream",
+  "name": "icecream",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-icecream.png",
+  "tags": []
+},
+{
+  "id": "honey",
+  "name": "honey",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-honey.png",
+  "tags": []
+},
+{
+  "id": "hamburger",
+  "name": "hamburger",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-hamburger.png",
+  "tags": []
+},
+{
+  "id": "goldtop",
+  "name": "goldtop",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-goldtop.png",
+  "tags": []
+},
+{
+  "id": "gmedal",
+  "name": "gmedal",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-gmedal.png",
+  "tags": []
+},
+{
+  "id": "gift_yellow",
+  "name": "gift_yellow",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-gift_yellow.png",
+  "tags": []
+},
+{
+  "id": "game",
+  "name": "game",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-game.png",
+  "tags": []
+},
+{
+  "id": "crown",
+  "name": "crown",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-crown.png",
+  "tags": []
+},
+{
+  "id": "coffee",
+  "name": "coffee",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-coffee.png",
+  "tags": []
+},
+{
+  "id": "celebrate",
+  "name": "celebrate",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-celebrate.png",
+  "tags": []
+},
+{
+  "id": "cancel",
+  "name": "cancel",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-cancel.png",
+  "tags": []
+},
+{
+  "id": "calender",
+  "name": "calender",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-calender.png",
+  "tags": []
+},
+{
+  "id": "bubble",
+  "name": "bubble",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-bubble.png",
+  "tags": []
+},
+{
+  "id": "bmedal",
+  "name": "bmedal",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-bmedal.png",
+  "tags": []
+},
+{
+  "id": "ad",
+  "name": "ad",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ic-obj-ad.png",
+  "tags": []
+}
 ]
