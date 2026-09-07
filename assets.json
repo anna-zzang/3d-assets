@@ -243,5 +243,26 @@
   "category": "object",
   "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/ticket.png",
   "tags": []
+  },
+  {
+  "id": "hourglass",
+  "name": "hourglass",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/hourglass.png",
+  "tags": []
+  },
+  {
+  "id": "infinite",
+  "name": "infinite",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/img-obj-infinite.png",
+  "tags": []
+  },
+  {
+  "id": "img-obj-lock",
+  "name": "img-obj-lock",
+  "category": "object",
+  "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/object/img-obj-lock.png",
+  "tags": []
   }
 ]
