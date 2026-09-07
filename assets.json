@@ -51,14 +51,14 @@
   {
     "id": "point08",
     "name": "point08",
-    "category": "object",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/ic-coin-08.png",
     "tags": []
   },
   {
     "id": "point09",
     "name": "point09",
-    "category": "object",
+    "category": "coin",
     "url": "https://raw.githubusercontent.com/anna-zzang/3d-assets/main/assets/coin/ic-coin-09.png",
     "tags": []
   }
